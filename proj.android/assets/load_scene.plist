@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BackgroundMusic</key>
+	<string>background.mp3</string>
+	<key>BackgroundImage</key>
+	<string>image/player_background.jpg</string>
+	<key>TitleLabel</key>
+	<dict>
+		<key>Size</key>
+		<string>{150.0f, 150.0f}</string>
+		<key>Position</key>
+		<string>{0.5f, 0.5f}</string>
+		<key>Font</key>
+		<string>fonts/boundsTestFont.fnt</string>
+	</dict>
+	<key>LoadingLabel</key>
+	<dict>
+		<key>Size</key>
+		<string>{50.0f, 50.0f}</string>
+		<key>Position</key>
+		<string>{0.50f, 0.40f}</string>
+		<key>Font</key>
+		<string>fonts/bitmapFontTest3.fnt</string>
+	</dict>
+	<key>ProgressBar</key>
+	<dict>
+		<key>Size</key>
+		<string>{500.0f, 20.0f}</string>
+		<key>Position</key>
+		<string>{0.50f, 0.35f}</string>
+		<key>Image</key>
+		<string>image/progress_bar.jpg</string>
+	</dict>
+	<key>ProgressBarBackground</key>
+	<dict>
+		<key>Size</key>
+		<string>{510.0f, 30.0f}</string>
+		<key>Position</key>
+		<string>{0.50f, 0.35f}</string>
+		<key>Image</key>
+		<string>image/progress_bar_background.png</string>
+	</dict>
+</dict>
+</plist>

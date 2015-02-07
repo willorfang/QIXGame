@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LaunchSpeedFactor</key>
+	<string>600.0f</string>
+	<key>SafeImage</key>
+	<string>image/player_safe.png</string>
+	<key>ActionImage</key>
+	<string>image/player_action.png</string>
+	<key>KilledSound</key>
+	<string>sound/player_killed.wav</string>
+	<key>ClearSound</key>
+	<string>sound/player_clear.wav</string>
+	<key>LaunchSound</key>
+	<string>sound/player_launch.wav</string>
+	<key>BanSound</key>
+	<string>sound/ban.wav</string>
+	<key>ArrowImage</key>
+	<string>image/arrow.png</string>
+	<key>BanImage</key>
+	<string>image/ban.png</string>
+	<key>StepShowboxImage</key>
+	<string>image/step_showbox.png</string>
+	<key>Size</key>
+	<string>{50.0f, 50.0f}</string>
+	<key>Position</key>
+	<string>{75.0f, 0.5f}</string>
+</dict>
+</plist>

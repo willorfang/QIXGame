@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BackgroundMusic</key>
+	<string>sound/background.mp3</string>
+	<key>BackgroundImage</key>
+	<string>image/player_background.jpg</string>
+	<key>GameStatusLabel</key>
+	<dict>
+		<key>Size</key>
+		<string>{150.0f, 150.0f}</string>
+		<key>Position</key>
+		<string>{0.5f, 0.8f}</string>
+		<key>Font</key>
+		<string>fonts/boundsTestFont.fnt</string>
+	</dict>
+	<key>ScoreLabel</key>
+	<dict>
+		<key>Size</key>
+		<string>{100.0f, 100.0f}</string>
+		<key>Position</key>
+		<string>{0.50f, 0.65f}</string>
+		<key>Font</key>
+		<string>fonts/boundsTestFont.fnt</string>
+	</dict>
+	<key>ScoreData</key>
+	<dict>
+		<key>Size</key>
+		<string>{500.0f, 200f}</string>
+		<key>Position</key>
+		<string>{0.50f, 0.50f}</string>
+		<key>Image</key>
+		<string>image/score_background.jpeg</string>
+		<key>Font</key>
+		<string>fonts/futura-48.fnt</string>
+	</dict>
+	<key>ReplayButton</key>
+	<dict>
+		<key>Size</key>
+		<string>{160.0f, 80.0f}</string>
+		<key>Position</key>
+		<string>{0.30f, 0.20f}</string>
+	</dict>
+	<key>NextButton</key>
+	<dict>
+		<key>Size</key>
+		<string>{160.0f, 80.0f}</string>
+		<key>Position</key>
+		<string>{0.70f, 0.20f}</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>image</key>
+    <array>
+        <string>image/arrow.png</string>
+        <string>image/ball.png</string>
+        <string>image/ban.png</string>
+        <string>image/disabled_button.png</string>
+        <string>image/edge_background.jpg</string>
+        <string>image/football.png</string>
+        <string>image/frozen.jpg</string>
+        <string>image/high_lighted_button.png</string>
+        <string>image/hole_grid.png</string>
+        <string>image/intro_background.jpg</string>
+        <string>image/line_enemy.png</string>
+        <string>image/map_background.jpg</string>
+        <string>image/normal_button.png</string>
+        <string>image/panel_item.png</string>
+        <string>image/player.png</string>
+        <string>image/player_action.png</string>
+        <string>image/player_background.jpg</string>
+        <string>image/player_safe.png</string>
+        <string>image/progress_bar.jpg</string>
+        <string>image/progress_bar_background.png</string>
+        <string>image/replay_button.png</string>
+        <string>image/score_background.jpeg</string>
+        <string>image/selected_button.png</string>
+        <string>image/step_showbox.png</string>
+        <string>image/sun.png</string>
+        <string>image/top_panel.png</string>
+        <string>image/track_enemy.png</string>
+        <string>image/wall_grid.png</string>
+    </array>
+    <key>sound</key>
+    <array>
+        <string>sound/background.mp3</string>
+        <string>sound/ban.WAV</string>
+        <string>sound/fail.WAV</string>
+        <string>sound/frozen.wav</string>
+        <string>sound/pass.WAV</string>
+        <string>sound/player_clear.wav</string>
+        <string>sound/player_killed.wav</string>
+        <string>sound/player_launch.wav</string>
+    </array>
+</dict>
+</plist>

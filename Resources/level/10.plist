@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Player</key>
+	<dict>
+		<key>Position</key>
+		<string>{75.0f, 0.5f}</string>
+	</dict>
+	<key>Enemy</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>StaticEnemy</string>
+			<key>Position</key>
+			<string>{0.350f,  0.350f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>StaticEnemy</string>
+			<key>Position</key>
+			<string>{0.350f,  0.650f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>StaticEnemy</string>
+			<key>Position</key>
+			<string>{0.650f,  0.350f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>StaticEnemy</string>
+			<key>Position</key>
+			<string>{0.650f,  0.650f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>LineEnemyToTop</string>
+			<key>Position</key>
+			<string>{0.50f,  0.50f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>LineEnemyToBottom</string>
+			<key>Position</key>
+			<string>{0.50f,  0.50f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>LineEnemyToLeft</string>
+			<key>Position</key>
+			<string>{0.50f,  0.50f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>LineEnemyToRight</string>
+			<key>Position</key>
+			<string>{0.50f,  0.50f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>HoleGrid</string>
+			<key>Position</key>
+			<string>{0.50f,  0.20f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>HoleGrid</string>
+			<key>Position</key>
+			<string>{0.50f,  0.80f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>HoleGrid</string>
+			<key>Position</key>
+			<string>{0.20f,  0.50f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>HoleGrid</string>
+			<key>Position</key>
+			<string>{0.80f,  0.50f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>WallGrid</string>
+			<key>Position</key>
+			<string>{0.20f,  0.20f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>WallGrid</string>
+			<key>Position</key>
+			<string>{0.20f,  0.80f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>WallGrid</string>
+			<key>Position</key>
+			<string>{0.80f,  0.20f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>WallGrid</string>
+			<key>Position</key>
+			<string>{0.80f,  0.80f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>TrackEnemy</string>
+			<key>Position</key>
+			<string>{0.50f,  0.50f}</string>
+		</dict>
+	</array>
+	<key>PassCondition</key>
+	<dict>
+		<key>MissCountMax</key>
+		<string>-1</string>
+		<key>LaunchCountMax</key>
+		<string>30</string>
+		<key>PlayTimeMax</key>
+		<string>70</string>
+		<key>AreaClearRatio</key>
+		<string>80</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BackgroundMusic</key>
+	<string>sound/background.mp3</string>
+	<key>EdgeBackgroundImage</key>
+	<string>image/edge_background.jpg</string>
+	<key>MapBackgroundImage</key>
+	<string>image/map_background.jpg</string>
+	<key>PlayerBackgroundImage</key>
+	<string>image/player_background.jpg</string>
+	<key>GamePassSound</key>
+	<string>sound/pass.WAV</string>
+	<key>GameFailSound</key>
+	<string>sound/fail.WAV</string>
+	<key>ItemSizeDefault</key>
+	<string>{50.0f, 50.0f}</string>
+	<key>ButtonNormalImage</key>
+	<string>image/normal_button.png</string>
+	<key>ButtonSelectedImage</key>
+	<string>image/selected_button.png</string>
+	<key>ButtonHighlightedImage</key>
+	<string>image/high_lighted_button.png</string>
+	<key>ButtonDisabledImage</key>
+	<string>image/disabled_button.png</string>
+	<key>ButtonFontDefault</key>
+	<string>fonts/bitmapFontTest.fnt</string>
+	<key>TitleFontDefault</key>
+	<string>fonts/boundsTestFont.fnt</string>
+	<key>TopPanelImage</key>
+	<string>image/top_panel.png</string>
+	<key>TopPanelItemImage</key>
+	<string>image/panel_item.png</string>
+	<key>BottomPanelImage</key>
+	<string>image/top_panel.png</string>
+	<key>BottomPanelItemImage</key>
+	<string>image/panel_item.png</string>
+	<key>IntroPanelBackgroundImage</key>
+	<string>image/intro_background.jpg</string>
+	<key>PlayerSafeImage</key>
+	<string>image/player_safe.png</string>
+	<key>PlayerActionImage</key>
+	<string>image/player_action.png</string>
+	<key>PlayerKilledSound</key>
+	<string>sound/player_killed.wav</string>
+	<key>AreaClearSound</key>
+	<string>sound/player_clear.wav</string>
+	<key>PlayerLaunchSound</key>
+	<string>sound/player_launch.wav</string>
+	<key>PlayerLaunchBanSound</key>
+	<string>sound/ban.wav</string>
+	<key>PlayerLaunchArrowImage</key>
+	<string>image/arrow.png</string>
+	<key>PlayerLaunchBanImage</key>
+	<string>image/ban.png</string>
+	<key>PlayerStepShowboxImage</key>
+	<string>image/step_showbox.png</string>
+	<key>PlayerSize</key>
+	<string>{50.0f, 50.0f}</string>
+	<key>LineEnemyImage</key>
+	<string>image/line_enemy.png</string>
+	<key>LineEnemySize</key>
+	<string>{50.0f, 50.0f}</string>
+	<key>LineEnemyVelocity</key>
+	<string>200.0f</string>
+	<key>StaticEnemyImage</key>
+	<string>image/sun.png</string>
+	<key>StaticEnemySize</key>
+	<string>{50.0f, 50.0f}</string>
+	<key>TrackEnemyImage</key>
+	<string>image/track_enemy.png</string>
+	<key>TrackEnemySize</key>
+	<string>{50.0f, 50.0f}</string>
+	<key>TrackEnemyVelocity</key>
+	<string>300.0f</string>
+	<key>TrackEnemyRadius</key>
+	<string>150.0f</string>
+	<key>WallGridImage</key>
+	<string>image/football.png</string>
+	<key>WallGridSize</key>
+	<string>{75.0f, 75.0f}</string>
+	<key>HoleGridImage</key>
+	<string>image/hole_grid.png</string>
+	<key>HoleGridSize</key>
+	<string>{75.0f, 75.0f}</string>
+	<key>SpriteVelocityMin</key>
+	<string>10.0f</string>
+	<key>PlayerLaunchVelocityMin</key>
+	<string>50.0f</string>
+	<key>PlayerLaunchVelocityMax</key>
+	<string>800.0f</string>
+	<key>SpriteVelocityControlFactor</key>
+	<string>5.0f</string>
+	<key>PlayerLaunchCountMax</key>
+	<string>50</string>
+	<key>PlayerPlayTimeMax</key>
+	<string>120</string>
+	<key>PlayerMissCountMax</key>
+	<string>6</string>
+	<key>AreaClearRatioMax</key>
+	<string>90</string>
+	<key>PlayerClearPathLength</key>
+	<string>3</string>
+	<key>PlayerArrowLengthDefault</key>
+	<string>80.0f</string>
+	<key>PlayerArrowLengthMax</key>
+	<string>400.0f</string>
+	<key>PlayerTrackPointsCountDefault</key>
+	<string>50</string>
+	<key>LabelFontDefault</key>
+	<string>fonts/futura-48.fnt</string>
+	<key>GameLevelMax</key>
+	<string>10</string>
+</dict>
+</plist>

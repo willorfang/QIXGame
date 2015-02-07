@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Player</key>
+	<dict>
+		<key>Position</key>
+		<string>{75.0f, 0.5f}</string>
+	</dict>
+	<key>Enemy</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>StaticEnemy</string>
+			<key>Position</key>
+			<string>{0.35f,  0.30f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>LineEnemyToTop</string>
+			<key>Position</key>
+			<string>{0.65f,  0.40f}</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>WallGrid</string>
+			<key>Position</key>
+			<string>{0.35f,  0.70f}</string>
+		</dict>
+	</array>
+	<key>PassCondition</key>
+	<dict>
+		<key>MissCountMax</key>
+		<string>5</string>
+		<key>LaunchCountMax</key>
+		<string>20</string>
+		<key>PlayTimeMax</key>
+		<string>90</string>
+		<key>AreaClearRatio</key>
+		<string>75</string>
+	</dict>
+</dict>
+</plist>
